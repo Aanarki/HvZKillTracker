@@ -11,7 +11,4 @@ public class LoginView extends AppCompatActivity {
         setContentView(R.layout.activity_login_vuew);
     }
 
-    public void method() {
-
-    }
 }
